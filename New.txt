@@ -1,0 +1,2 @@
+Cloned the repository and now adding a new file.
+Committing changes to master, yo!
